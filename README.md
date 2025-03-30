@@ -88,21 +88,21 @@ Rows: 100
 ---
 
 Training phase completed
-Accuracy=100.0000 
-Total Training Iterations=45
+Accuracy=87.0000 
+Total Training Iterations=15
 
-Learning Rate: 0.010000
-Max Iterations: 1000
-Weights: 0.4728371240, 0.7351962531
-Bias: -0.2847293847
+Learning Rate: 0.000500
+Max Iterations: 15
+Weights: 0.0790898331, 0.1935892719
+Bias: 0.3837106444
 ---
 
 Test data successfully read.
-Rows: 50
+Rows: 100
 -----
 
 Test phase ended
-Prediction Accuracy = 97.5000
+Prediction Accuracy = 87.0000
 
 --- ---
 ```
