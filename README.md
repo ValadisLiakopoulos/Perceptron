@@ -25,7 +25,7 @@ The perceptron implementation includes:
 Compile the program using:
 
 ```bash
-gcc -o perceptron perceptron.c
+gcc -Wall -o perceptron perceptron.c
 ```
 
 ### Running the Program
